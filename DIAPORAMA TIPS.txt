@@ -1,0 +1,31 @@
+A faire :
+- Imager l'info
+- Mots clés
+	- chiffres, dates
+	- noms propres
+	- termes spécifiques (+definitions)
+- Afficher l'info progressivement, diapo // discours
+- Lisibilité (attention contraste)
+- Template, theme, modèle déjà fait (charte graphique)
+
+Diapos obligatoires:
+1) Titre (noms, date, ref)
+2) Sommaire / plan
+|
+|
+X) Conclusion
+n) Sources (+légendes img chaque diapo)
+- numéro de slide
+- faire des liens entre les diapo
+- pied de page (nom, référence)
+
+
+
+
+
+A ne pas faire :
+- trop de texte, texte rédigé
+- Transitions fantaisistes
+- info en une seule fois (diapo en avance)
+- diapo squelette
+- FAUTES D'ORTHOGRAPHE ET DE TYPOGRAPHIE
